@@ -1,7 +1,4 @@
-# WebScraping
-Web scraping projects utilizing python, beautifulsoup, pandas
-
-<b>"ndscrape.py"</b><br>
+# NDwebscrape
 <b>Description:</b>Collects data from Steam Search for 'Nancy Drew', creates csv file and imports collected data in format of four columns: TITLE, DISCOUNT, OLD PRICE, NEW PRICE.<br>
 <b>Language:</b> Python<br>
 <b>Modules:</b> BeautifulSoup, Pandas, csv, urllib.request<br>
